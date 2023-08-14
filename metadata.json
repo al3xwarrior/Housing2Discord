@@ -1,0 +1,8 @@
+{
+  "name": "Housing2Discord",
+  "creator": "Al3xWarrior",
+  "description": "Allows for forwarding Housing Chat messages to Discord! (/h2d)",
+  "version": "1.2.0",
+  "entry": "index.js",
+  "requires": ["axios", "requestv2", "Vigilance"]
+}
